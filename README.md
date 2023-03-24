@@ -4,7 +4,7 @@
  
  ❤️ - <img align="center" alt="h-docker" height="70" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
  <img align="center" alt="h-k8s" height="70" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
- <img align="center" alt="h-kafka" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
+ <img align="center" alt="h-kafka" height="50" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg">
  <img align="center" alt="h-gcp" height="70" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
  <img align="center" alt="h-aws" height="70" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
  
